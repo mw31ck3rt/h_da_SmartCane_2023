@@ -1,0 +1,9 @@
+Sensoren für V2:
+
+- DFRobot Gravity URM09 - Ultraschall-Abstandssensor 2-500 cm und Temperatur I2C
+
+https://botland.de/schwerkraft-abstands-und-bewegungssensoren/14048-dfrobot-gravity-urm09-ultraschall-abstandssensor-2-500-cm-und-temperatur-i2c-5904422377441.html
+
+- Lidar TF Luna Laser-Entfernungssensor - 8 m - UART / I2C
+
+https://botland.de/flugzeitsensoren/16638-lidar-tf-luna-laser-entfernungssensor-8-m-uart-i2c-5903351249041.html
